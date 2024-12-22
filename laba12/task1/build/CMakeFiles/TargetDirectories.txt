@@ -1,0 +1,9 @@
+/home/STUDENT/laba12/task1/build/CMakeFiles/main.dir
+/home/STUDENT/laba12/task1/build/CMakeFiles/edit_cache.dir
+/home/STUDENT/laba12/task1/build/CMakeFiles/rebuild_cache.dir
+/home/STUDENT/laba12/task1/build/background/CMakeFiles/background.dir
+/home/STUDENT/laba12/task1/build/background/CMakeFiles/edit_cache.dir
+/home/STUDENT/laba12/task1/build/background/CMakeFiles/rebuild_cache.dir
+/home/STUDENT/laba12/task1/build/pipes/CMakeFiles/pipes.dir
+/home/STUDENT/laba12/task1/build/pipes/CMakeFiles/edit_cache.dir
+/home/STUDENT/laba12/task1/build/pipes/CMakeFiles/rebuild_cache.dir
