@@ -13,7 +13,7 @@ void BubbleSort(int arr[], int n){
 }
 
 int main(){
-	int a[] = {4,2,0};
+	int a[] = {4,2};
 	int n = sizeof(a) / sizeof(a[0]);
 
 	sort(a,n);
